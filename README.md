@@ -6,3 +6,4 @@ Function approximation is applied in mathematical and computer science, because 
 
  ### - Taylor Series
  ### - Big O notaiton
+ - Latex, Matplotlib, Numpy
