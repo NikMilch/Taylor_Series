@@ -1,2 +1,2 @@
-# Taylor_Series
+# Taylor Series
 Math Concepts
